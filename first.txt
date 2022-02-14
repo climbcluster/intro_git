@@ -1,2 +1,4 @@
 こんにちは
 Hello
+git add
+git commit
